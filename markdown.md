@@ -1,5 +1,6 @@
 # Marianne Auquier
-*i'm not crazy ! my reality is just different than yours!*
+*i'm not crazy ! my reality is just different than yours! - Lewis Carroll*
+
 
 ![moi](https://media-exp1.licdn.com/dms/image/C4D03AQEAE37kY8f0lQ/profile-displayphoto-shrink_800_800/0/1535912810356?e=1627516800&v=beta&t=DfLbvORZpMKYY9qL2fEF1AC_qLs-7O62m3Zh8UH0N40)
 
