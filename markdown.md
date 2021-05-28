@@ -39,7 +39,7 @@ When i was little, I used tu run out my cage bed at night and tweak my parents' 
 
 ###### TL;DR
 
-When i was little i was a monster 
+As a child, i was a monster 
 
 [<<Laura](https://github.com/LauraLucas3/challenge-markdown/blob/main/README.md)
 || Marianne || [Martin>>](https://github.com/sillver2000/challenge-markdown/blob/main/README.md)
