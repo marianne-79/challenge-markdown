@@ -6,17 +6,14 @@
 ##Welcome to my world
 
 Marianne  | Info
-
----------- | ---------  
-
+--------- | ---------  
 Birthday  | 18/03/1979
 Gender  | F
 Favorite color | purple
 Favorite food  | Thaï
 
 
-[x] Pinneapple on pizza(Yes) 
-[ ] non
+Pinneapple on pizza Yes [x] No [ ]
 
 
 ### Hobbies
@@ -30,16 +27,18 @@ Favorite food  | Thaï
 	* same as for the movies
 * My cats
 
-#### You can always count on me whem
+#### You can always count on me when
 
 A touch of humor, a simpler understanding of things, my organization 
 
-##### When i was little, I used tu run out my cage bed at night and tweak my parents' and my brother's nose.
+##### A funny story
+
+When i was little, I used tu run out my cage bed at night and tweak my parents' and my brother's nose.
 
 
-##### TL;DR
+###### TL;DR
 
-In summary, i tortured my family 
+I tortured my family 
 
 [<<Laura](https://github.com/LauraLucas3/challenge-markdown/blob/main/README.md)
 || Marianne || [Martin>>](
