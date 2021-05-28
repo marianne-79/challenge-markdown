@@ -25,7 +25,8 @@ Pinneapple on pizza Yes [x] No [ ]
 	* Thriller
 * Series
 	* same as for the movies
-* My cats
+* Gaming
+* My cats (Bonnie & Clyde) 
 
 #### You can always count on me when
 
