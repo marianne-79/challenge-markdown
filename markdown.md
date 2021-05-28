@@ -13,7 +13,10 @@ Favorite color | purple
 Favorite food  | Thaï
 
 
-Pinneapple on pizza Yes - [x] No - [ ]
+Pinneapple on pizza 
+
+- [x] Yes
+- [ ] No
 
 
 ### Hobbies
